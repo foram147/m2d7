@@ -1,0 +1,16 @@
+h1{
+    color: rgb(69, 34, 196);
+  }
+ div.containe jumbotron {
+    text-decoration: none;
+    }
+
+main:first-of-type('blog-post'){
+    border: red;
+}
+.aside{
+    border: red;
+  }
+  .h4>ol{
+      border: red;
+  }
